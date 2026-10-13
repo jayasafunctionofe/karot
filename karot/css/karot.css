@@ -228,18 +228,16 @@ button:active {
 
 /* BUTTON AREA */
 
-.reading-actions {
-    position: absolute;
 
+
+.reading-actions {
+
+    position: absolute;
     left: 5%;
     bottom: 0;
-
     display: table;
     table-layout: fixed;
-
     width: 90%;
-    max-width: 600px;
-
     margin-bottom: 20px;
 }
 
